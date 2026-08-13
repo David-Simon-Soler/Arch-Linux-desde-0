@@ -1,4 +1,4 @@
-# De Windows olvidado a estación de pruebas Arch + Hyprland
+# De Windows a estación de pruebas Arch + Hyprland
 
 Un Huawei MateBook D14 (2019) que llevaba años parado, convertido en un segundo entorno de desarrollo desde cero: particionado manual, Arch Linux instalado a mano, y Hyprland con un rice completo encima.
 
