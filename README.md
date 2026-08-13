@@ -2,8 +2,8 @@
 
 Un Huawei MateBook D14 (2019) que llevaba años parado, convertido en un segundo entorno de desarrollo desde cero: particionado manual, Arch Linux instalado a mano, y Hyprland con un rice completo encima.
 
-![Escritorio final](./screenshots/desktop.png)
-*(añade aquí tu captura del escritorio final)*
+![Escritorio final](./design+app.png)
+
 
 ## Por qué
 
